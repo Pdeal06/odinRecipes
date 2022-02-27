@@ -1,6 +1,18 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: darkkhaki;
 }
-.mainmenu {
-    background-color: bisque;
+
+.oddFood {
+    background-color: azure;
 }
+
+.evenFood {
+    background-color: blanchedalmond;
+}
+
+.oddFood, .evenFood {
+    text-align: center;
+    color: black;
+}
+
